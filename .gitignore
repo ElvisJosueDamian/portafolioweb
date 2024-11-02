@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de entorno
+.env
+
+# Directorios de construcción
+dist/
+build/
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+
+# Otros archivos que puedes querer ignorar
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración de sistemas operativos
+*.swp
